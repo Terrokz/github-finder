@@ -6,5 +6,9 @@ Zastosowane technologie:
   <li> React (Hooks, context API, react-router-dom </li>
   <li> HTML </li>
   <li> CSS </li>
+  <li> Tailwind </li>
   <li> axios </li>
  </ul>
+
+
+<p>Stona łączy się z API Githuba wyszukując użytkowników po nazwie oraz wyświetla podstawowe dane takie jak nick, firma, lokalizacja, a także listę repozytoriów stworzonych w ostatnim czasie przez użytkownika.</p>
